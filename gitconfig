@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = osama.ghamdi93@gmail.com
+	name = Osama Alghamdi
